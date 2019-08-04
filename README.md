@@ -1,0 +1,3 @@
+This is a mini-project in TheOdinProject that will use some of the basic HTML and CSS skills that I have learned. 
+The purpose of this project is to deconstruct an existing webpage and then rebuild it. This will help me understand how elements get to where they are on a webpage and how they are styled, aligned on the page.
+Here is the link to the specific project for reference: From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
